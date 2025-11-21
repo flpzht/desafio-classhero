@@ -1,6 +1,6 @@
 # Desafio Classificador de Nível de Herói (DIO)
 
-<img src="https://github.com/flpzht/desafio-classhero/blob/main/mage-attack.png" alt="Banner do Projeto" width="35%"/>
+<img src="https://github.com/flpzht/desafio-classhero/blob/main/mage-attack.png" alt="Mage Attack" width="500" height="200"/>
 
 [![Status do Projeto](https://img.shields.io/badge/Status-Concluído-brightgreen)](https://www.dio.me/)
 [![Linguagem Principal](https://img.shields.io/badge/Linguagem-JavaScript-yellow)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
