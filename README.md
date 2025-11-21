@@ -1,4 +1,4 @@
-# Desafio Classificador de Nível de Herói (DIO)
+# 🧙‍♂️Desafio Classes de um Jogo (DIO)
 
 <img src="https://github.com/flpzht/desafio-classhero/blob/main/mage-attack.png" alt="Mage Attack" width="500" height="200"/>
 
